@@ -5,9 +5,9 @@
 🔒 This is a Password Analyzer File: A handy tool to assess the strength of your passwords and help you keep your accounts secure!
 
 
-             🚀 Getting Started:
+🚀 Getting Started:
              
-Navigate to the File Path : cd /file/path
-Run the Script: python password_analyzer.py
+      Navigate to the File Path : cd /file/path
+      Run the Script: python password_analyzer.py
 
-            🛡️ Your journey to stronger passwords starts now! Happy coding! 🎊✨                                                     
+🛡️ Your journey to stronger passwords starts now! Happy coding! 🎊✨                                                     
