@@ -2,7 +2,7 @@
 
 👋 Welcome! You’ve just landed on my awesome page, and I’m thrilled to have you here!
 
-🔒 This is a Password Analyzer File: A handy tool to assess the strength of your passwords and help you keep your accounts secure!
+🔒 This is a *Password Analyzer*: A handy tool to assess the strength of your passwords and help you keep your accounts secure!
 
 
 🚀 Getting Started:
